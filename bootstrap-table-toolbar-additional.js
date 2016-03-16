@@ -8,6 +8,8 @@
     'use strict';
 
     var sprintf = $.fn.bootstrapTable.utils.sprintf;
+    var getFieldIndex = $.fn.bootstrapTable.utils.getFieldIndex;
+     
 
     $.extend($.fn.bootstrapTable.defaults, {
         showStatusFiltertButton: false,
