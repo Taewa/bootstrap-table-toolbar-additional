@@ -33,7 +33,7 @@
             },
             
             formatNoMatches: function () {
-                return 'There is no Dac to validate';
+                return 'No result';
             },
             
             formatshowStatusFiltertButton: function () {
