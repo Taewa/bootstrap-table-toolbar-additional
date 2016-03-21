@@ -28,14 +28,6 @@
 
     var locales = {
         'en-US' : {
-            formatLoadingMessage: function () {
-                return 'Loading, please wait...';
-            },
-            
-            formatNoMatches: function () {
-                return 'No result';
-            },
-            
             formatshowStatusFiltertButton: function () {
                 return 'Filter status';
             },
